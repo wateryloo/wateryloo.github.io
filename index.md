@@ -1,3 +1,3 @@
 # My Page
 
-I am a sophomore in SUSTech.
+I am a junior in SUSTech.
